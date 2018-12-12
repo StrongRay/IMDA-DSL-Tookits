@@ -1,6 +1,4 @@
 # IMDA-DSL-Tookits
-Publically available toolkit from Digital Services Lab (IMDA) to develop needed tools to enable the industry to speed up adoption of technology in the Artificial Intelligence space.
-
 IMDA Digital Services Lab developed a “Intelligent Sensing Toolbox” [https://www.imda.gov.sg/industry-development/infrastructure/technology/digital-services-lab/intelligent-sensing-toolbox] to identify outliers in a sample appliances-energy-prediction dataset. But the key objective is for the application of anomaly detection in different areas where human monitoring can be made redundant and more effective.  
 
 Technically the developed toolkit is based on
