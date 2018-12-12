@@ -9,6 +9,7 @@ isensing toolkit with adapted codes from robpca [https://feb.kuleuven.be/public/
 
 Using standard off the shelf plotly [https://plot.ly] scatterplot API, Isensing Anomalies plots the data in a 2-dimensional space with the outilers marked by the individual algorithm.  The beautiful graphical chart is shown as follows
 
+![image](https://github.com/StrongRay/IMDA-DSL-Tookits/blob/master/iSensing-PlotPy.png)
 
 with  Anomalies data errors detected in a pandas dataframe, rules can be configured in python to trigger alerts to the human operators or perform pre-defined actions
 
