@@ -13,4 +13,5 @@ Using standard off the shelf plotly [https://plot.ly] scatterplot API, Isensing 
 
 with  Anomalies data errors detected in a pandas dataframe, rules can be configured in python to trigger alerts to the human operators or perform pre-defined actions
 
+![image](https://github.com/StrongRay/IMDA-DSL-Tookits/blob/master/iSensing-Anomalies-PD.png)
 
